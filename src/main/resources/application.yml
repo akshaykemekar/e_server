@@ -3,7 +3,7 @@ server:
 
 eureka:
   instance:
-    hostname: http://e-server-git-akshaykemekar-dev.apps.sandbox.x8i5.p1.openshiftapps.com
+    hostname: e-server-git-akshaykemekar-dev.apps.sandbox.x8i5.p1.openshiftapps.com
   client:
     fetch-registry: false 
     register-with-eureka: false 
